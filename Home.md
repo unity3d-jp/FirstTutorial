@@ -10,4 +10,4 @@
 
 是非、チュートリアルを進める上で自分のオリジナリティな要素を追加して見てください。
 
-![ゲーム画面](https://raw.githubusercontent.com/wiki/unity3d-jp/FirstTutorial/img/GameScreenshot.pngimg/GameScreenshot.png)
+![ゲーム画面](https://raw.githubusercontent.com/wiki/unity3d-jp/FirstTutorial/img/GameScreenshot.png)
